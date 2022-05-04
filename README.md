@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rychellos
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning webgl
+- 🌱 I’m student
 
 <!---
 Rychellos/Rychellos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
